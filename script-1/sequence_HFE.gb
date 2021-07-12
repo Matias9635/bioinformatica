@@ -1,0 +1,358 @@
+LOCUS       NM_000410               5176 bp    mRNA    linear   PRI 20-APR-2021
+DEFINITION  Homo sapiens homeostatic iron regulator (HFE), transcript variant
+            1, mRNA.
+ACCESSION   NM_000410
+VERSION     NM_000410.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5176)
+  AUTHORS   Zekavat OR, Zareian Jahromi M, Haghpanah S, Kargar Jahromi Z and
+            Cohan N.
+  TITLE     Association of HFE Gene Mutations With Serum Ferritin Level and
+            Heart and Liver Iron Overload in Patients With
+            Transfusion-dependent Beta-Thalassemia
+  JOURNAL   J Pediatr Hematol Oncol 43 (1), e26-e28 (2021)
+   PUBMED   32925401
+  REMARK    GeneRIF: Association of HFE Gene Mutations With Serum Ferritin
+            Level and Heart and Liver Iron Overload in Patients With
+            Transfusion-dependent Beta-Thalassemia.
+REFERENCE   2  (bases 1 to 5176)
+  AUTHORS   Atkins JL, Pilling LC, Masoli JAH, Kuo CL, Shearman JD, Adams PC
+            and Melzer D.
+  TITLE     Association of Hemochromatosis HFE p.C282Y Homozygosity With
+            Hepatic Malignancy
+  JOURNAL   JAMA 324 (20), 2048-2057 (2020)
+   PUBMED   33231665
+  REMARK    GeneRIF: Association of Hemochromatosis HFE p.C282Y Homozygosity
+            With Hepatic Malignancy.
+REFERENCE   3  (bases 1 to 5176)
+  AUTHORS   Kallianpur AR, Wen W, Erwin AL, Clifford DB, Hulgan T and Robbins
+            GK.
+  TITLE     Higher iron stores and the HFE 187C>G variant delay onset of
+            peripheral neuropathy during combination antiretroviral therapy
+  JOURNAL   PLoS One 15 (10), e0239758 (2020)
+   PUBMED   33057367
+  REMARK    GeneRIF: Higher iron stores and the HFE 187C>G variant delay onset
+            of peripheral neuropathy during combination antiretroviral therapy.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 5176)
+  AUTHORS   Abdulrahim JW, Kwee LC, Alenezi F, Sun AY, Baras A, Ajayi TA, Henao
+            R, Holley CL, McGarrah RW, Daubert JP, Truby LK, Vemulapalli S,
+            Wang A, Khouri MG and Shah SH.
+  TITLE     Identification of Undetected Monogenic Cardiovascular Disorders
+  JOURNAL   J Am Coll Cardiol 76 (7), 797-808 (2020)
+   PUBMED   32792077
+  REMARK    GeneRIF: Identification of Undetected Monogenic Cardiovascular
+            Disorders.
+REFERENCE   5  (bases 1 to 5176)
+  AUTHORS   Kortas J, Ziemann E and Antosiewicz J.
+  TITLE     Effect of HFE Gene Mutation on Changes in Iron Metabolism Induced
+            by Nordic Walking in Elderly Women
+  JOURNAL   Clin Interv Aging 15, 663-671 (2020)
+   PUBMED   32494128
+  REMARK    GeneRIF: Effect of HFE Gene Mutation on Changes in Iron Metabolism
+            Induced by Nordic Walking in Elderly Women.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 5176)
+  AUTHORS   Barton,J.C. and Edwards,C.Q.
+  TITLE     HFE Hemochromatosis
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mirzaa G
+            and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301613
+REFERENCE   7  (bases 1 to 5176)
+  AUTHORS   Geraghty DE, Koller BH, Pei J and Hansen JA.
+  TITLE     Examination of four HLA class I pseudogenes. Common events in the
+            evolution of HLA genes and pseudogenes
+  JOURNAL   J Immunol 149 (6), 1947-1956 (1992)
+   PUBMED   1517564
+REFERENCE   8  (bases 1 to 5176)
+  AUTHORS   Dugast IJ, Papadopoulos P, Zappone E, Jones C, Theriault K,
+            Handelman GJ, Benarous R and Drysdale JW.
+  TITLE     Identification of two human ferritin H genes on the short arm of
+            chromosome 6
+  JOURNAL   Genomics 6 (2), 204-211 (1990)
+   PUBMED   2307464
+REFERENCE   9  (bases 1 to 5176)
+  AUTHORS   Walsh,C.H. and Malins,J.M.
+  TITLE     Proliferative retinopathy in a patient with diabetes mellitus and
+            idiopathic haemochromatosis
+  JOURNAL   Br Med J 2 (6129), 16-17 (1978)
+   PUBMED   678784
+REFERENCE   10 (bases 1 to 5176)
+  AUTHORS   Markert,R.
+  TITLE     [Biochemical studies and biopsy examination in the evaluation of
+            liver function in cholelithiasis]
+  JOURNAL   Pol Tyg Lek 32 (27), 1041-1042 (1977)
+   PUBMED   896549
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from U91328.1.
+            On Jun 2, 2020 this sequence version replaced NM_000410.3.
+            
+            Summary: The protein encoded by this gene is a membrane protein
+            that is similar to MHC class I-type proteins and associates with
+            beta2-microglobulin (beta2M). It is thought that this protein
+            functions to regulate iron absorption by regulating the interaction
+            of the transferrin receptor with transferrin. The iron storage
+            disorder, hereditary haemochromatosis, is a recessive genetic
+            disorder that results from defects in this gene. At least nine
+            alternatively spliced variants have been described for this gene.
+            Additional variants have been found but their full-length nature
+            has not been determined. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) encodes the longest isoform.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            CCDS Note: This CCDS ID represents the longest isoform encoded by
+            the HFE gene. This isoform contains both a Class I
+            Histocompatibility antigen (MHC_I) and an Immunoglobulin constant
+            region (IGc) domain.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803611.128876.1, BC117201.1
+                                           [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000357618.10/ ENSP00000417404.1
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression, longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-88                U91328.1           53543-53630         c
+            89-352              U91328.1           49955-50218         c
+            353-628             U91328.1           49470-49745         c
+            629-904             U91328.1           48099-48374         c
+            905-1018            U91328.1           47827-47940         c
+            1019-5176           U91328.1           42716-46873         c
+FEATURES             Location/Qualifiers
+     source          1..5176
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p22.2"
+     gene            1..5176
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="homeostatic iron regulator"
+                     /db_xref="GeneID:3077"
+                     /db_xref="HGNC:HGNC:4886"
+                     /db_xref="MIM:613609"
+     exon            1..88
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             13..1059
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; high Fe; MHC class I-like protein HFE;
+                     hereditary hemochromatosis protein HLA-H"
+                     /codon_start=1
+                     /product="hereditary hemochromatosis protein isoform 1
+                     precursor"
+                     /protein_id="NP_000401.1"
+                     /db_xref="CCDS:CCDS4578.1"
+                     /db_xref="GeneID:3077"
+                     /db_xref="HGNC:HGNC:4886"
+                     /db_xref="MIM:613609"
+                     /translation="MGPRARPALLLLMLLQTAVLQGRLLRSHSLHYLFMGASEQDLGL
+                     SLFEALGYVDDQLFVFYDHESRRVEPRTPWVSSRISSQMWLQLSQSLKGWDHMFTVDF
+                     WTIMENHNHSKESHTLQVILGCEMQEDNSTEGYWKYGYDGQDHLEFCPDTLDWRAAEP
+                     RAWPTKLEWERHKIRARQNRAYLERDCPAQLQQLLELGRGVLDQQVPPLVKVTHHVTS
+                     SVTTLRCRALNYYPQNITMKWLKDKQPMDAKEFEPKDVLPNGDGTYQGWITLAVPPGE
+                     EQRYTCQVEHPGLDQPLIVIWEPSPSGTLVIGVISGIAVFVVILFIGILFIILRKRQG
+                     SRGAMGHYVLAERE"
+     sig_peptide     13..78
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     79..1056
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /product="hereditary hemochromatosis protein isoform 1"
+     misc_feature    79..354
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q30201.1);
+                     Region: Alpha-1"
+     misc_feature    340..342
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q30201.1); glycosylation site"
+     misc_feature    355..627
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q30201.1);
+                     Region: Alpha-2"
+     misc_feature    400..402
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q30201.1); glycosylation site"
+     misc_feature    628..903
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q30201.1);
+                     Region: Alpha-3"
+     misc_feature    712..714
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (Q30201.1); glycosylation site"
+     misc_feature    904..930
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q30201.1);
+                     Region: Connecting peptide"
+     misc_feature    931..1002
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q30201.1);
+                     transmembrane region"
+     exon            89..352
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            353..628
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            629..904
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            905..1018
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1019..5176
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3641..3646
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="hexamer: AATAAA"
+     polyA_site      3662
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="major polyA site"
+     regulatory      5153..5158
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+                     /note="hexamer: ATTAAA"
+     polyA_site      5176
+                     /gene="HFE"
+                     /gene_synonym="HFE1; HH; HLA-H; MVCD7; TFQTL2"
+ORIGIN      
+        1 agagctgggg aaatgggccc gcgagccagg ccggcgcttc tcctcctgat gcttttgcag
+       61 accgcggtcc tgcaggggcg cttgctgcgt tcacactctc tgcactacct cttcatgggt
+      121 gcctcagagc aggaccttgg tctttccttg tttgaagctt tgggctacgt ggatgaccag
+      181 ctgttcgtgt tctatgatca tgagagtcgc cgtgtggagc cccgaactcc atgggtttcc
+      241 agtagaattt caagccagat gtggctgcag ctgagtcaga gtctgaaagg gtgggatcac
+      301 atgttcactg ttgacttctg gactattatg gaaaatcaca accacagcaa ggagtcccac
+      361 accctgcagg tcatcctggg ctgtgaaatg caagaagaca acagtaccga gggctactgg
+      421 aagtacgggt atgatgggca ggaccacctt gaattctgcc ctgacacact ggattggaga
+      481 gcagcagaac ccagggcctg gcccaccaag ctggagtggg aaaggcacaa gattcgggcc
+      541 aggcagaaca gggcctacct ggagagggac tgccctgcac agctgcagca gttgctggag
+      601 ctggggagag gtgttttgga ccaacaagtg cctcctttgg tgaaggtgac acatcatgtg
+      661 acctcttcag tgaccactct acggtgtcgg gccttgaact actaccccca gaacatcacc
+      721 atgaagtggc tgaaggataa gcagccaatg gatgccaagg agttcgaacc taaagacgta
+      781 ttgcccaatg gggatgggac ctaccagggc tggataacct tggctgtacc ccctggggaa
+      841 gagcagagat atacgtgcca ggtggagcac ccaggcctgg atcagcccct cattgtgatc
+      901 tgggagccct caccgtctgg caccctagtc attggagtca tcagtggaat tgctgttttt
+      961 gtcgtcatct tgttcattgg aattttgttc ataatattaa ggaagaggca gggttcaaga
+     1021 ggagccatgg ggcactacgt cttagctgaa cgtgagtgac acgcagcctg cagactcact
+     1081 gtgggaagga gacaaaacta gagactcaaa gagggagtgc atttatgagc tcttcatgtt
+     1141 tcaggagaga gttgaaccta aacatagaaa ttgcctgacg aactccttga ttttagcctt
+     1201 ctctgttcat ttcctcaaaa agatttcccc atttaggttt ctgagttcct gcatgccggt
+     1261 gatccctagc tgtgacctct cccctggaac tgtctctcat gaacctcaag ctgcatctag
+     1321 aggcttcctt catttcctcc gtcacctcag agacatacac ctatgtcatt tcatttccta
+     1381 tttttggaag aggactcctt aaatttgggg gacttacatg attcatttta acatctgaga
+     1441 aaagctttga accctgggac gtggctagtc ataaccttac cagattttta cacatgtatc
+     1501 tatgcatttt ctggacccgt tcaacttttc ctttgaatcc tctctctgtg ttacccagta
+     1561 actcatctgt caccaagcct tggggattct tccatctgat tgtgatgtga gttgcacagc
+     1621 tatgaaggct gtacactgca cgaatggaag aggcacctgt cccagaaaaa gcatcatggc
+     1681 tatctgtggg tagtatgatg ggtgttttta gcaggtagga ggcaaatatc ttgaaagggg
+     1741 ttgtgaagag gtgttttttc taattggcat gaaggtgtca tacagatttg caaagtttaa
+     1801 tggtgccttc atttgggatg ctactctagt attccagacc tgaagaatca caataatttt
+     1861 ctacctggtc tctccttgtt ctgataatga aaattatgat aaggatgata aaagcactta
+     1921 cttcgtgtcc gactcttctg agcacctact tacatgcatt actgcatgca cttcttacaa
+     1981 taattctatg agataggtac tattatcccc atttcttttt taaatgaaga aagtgaagta
+     2041 ggccgggcac ggtggctcac gcctgtaatc ccagcacttt gggaggccaa agcgggtgga
+     2101 tcacgaggtc aggagatcga gaccatcctg gctaacatgg tgaaacccca tctctaataa
+     2161 aaatacaaaa aattagctgg gcgtggtggc agacgcctgt agtcccagct actcggaagg
+     2221 ctgaggcagg agaatggcat gaacccagga ggcagagctt gcagtgagcc gagtttgcgc
+     2281 cactgcactc cagcctaggt gacagagtga gactccatct caaaaaaata aaaataaaaa
+     2341 taaaaaaatg aaaaaaaaaa gaaagtgaag tatagagtat ctcatagttt gtcagtgata
+     2401 gaaacaggtt tcaaactcag tcaatctgac cgtttgatac atctcagaca ccactacatt
+     2461 cagtagttta gatgcctaga ataaatagag aaggaaggag atggctcttc tcttgtctca
+     2521 ttgtgtttct tctgagtgag cttgaatcac atgaagggga acagcagaaa acaaccaact
+     2581 gatcctcagc tgtcatgttt cctttaaaag tccctgaagg aaggtcctgg aatgtgactc
+     2641 ccttgctcct ctgttgctct ctttggcatt catttctttg gaccctacgc aaggactgta
+     2701 attggtgggg acagctagtg gccctgctgg gcttcacaca cggtgtcctc cctaggccag
+     2761 tgcctctgga gtcagaactc tggtggtatt tccctcaatg aagtggagta agctctctca
+     2821 ttttgagatg gtataatgga agccaccaag tggcttagag gatgcccagg tccttccatg
+     2881 gagccactgg ggttccggtg cacattaaaa aaaaaatcta accaggacat tcaggaattg
+     2941 ctagattctg ggaaatcagt tcaccatgtt caaaagagtc tttttttttt ttttgagact
+     3001 ctattgccca ggctggagtg caatggcatg atctcggctc actgtaacct ctgcctccca
+     3061 ggttcaagcg attctcctgt ctcagcctcc caagtagctg ggattacagg cgtgcaccac
+     3121 catgcccggc taatttttgt atttttagta gagacagggt ttcaccatgt tggccaggct
+     3181 ggtctcgaac tctcctgacc tcgtgatccg cctgcctcgg cctcccaaag tgctgagatt
+     3241 acaggtgtga gccaccctgc ccagccgtca aaagagtctt aatatatata tccagatggc
+     3301 atgtgtttac tttatgttac tacatgcact tggctgcata aatgtggtac aagcattctg
+     3361 tcttgaaggg caggtgcttc aggataccat atacagctca gaagtttctt ctttaggcat
+     3421 taaattttag caaagatatc tcatctcttc ttttaaacca ttttcttttt ttgtggttag
+     3481 aaaagttatg tagaaaaaag taaatgtgat ttacgctcat tgtagaaaag ctataaaatg
+     3541 aatacaatta aagctgttat ttaattagcc agtgaaaaac tattaacaac ttgtctatta
+     3601 cctgttagta ttattgttgc attaaaaatg catatacttt aataaatgta tattgtattg
+     3661 tatactgcat gattttattg aagttcttgt tcatcttgtg tatatactta atcgctttgt
+     3721 cattttggag acatttattt tgcttctaat ttctttacat tttgtcttac ggaatatttt
+     3781 cattcaactg tggtagccga attaatcgtg tttcttcact ctagggacat tgtcgtctaa
+     3841 gttgtaagac attggttatt ttaccagcaa accattctga aagcatatga caaattattt
+     3901 ctctcttaat atcttactat actgaaagca gactgctata aggcttcact tactcttcta
+     3961 cctcataagg aatatgttac aattaattta ttaggtaagc atttgtttta tattggtttt
+     4021 atttcacctg ggctgagatt tcaagaaaca ccccagtctt cacagtaaca catttcacta
+     4081 acacatttac taaacatcag caactgtggc ctgttaattt ttttaataga aattttaagt
+     4141 cctcattttc tttcggtgtt ttttaagctt aatttttctg gctttattca taaattctta
+     4201 aggtcaacta catttgaaaa atcaaagacc tgcattttaa attcttattc acctctggca
+     4261 aaaccattca caaaccatgg tagtaaagag aagggtgaca cctggtggcc ataggtaaat
+     4321 gtaccacggt ggtccggtga ccagagatgc agcgctgagg gttttcctga aggtaaagga
+     4381 ataaagaatg ggtggagggg cgtgcactgg aaatcacttg tagagaaaag cccctgaaaa
+     4441 tttgagaaaa caaacaagaa actacttacc agctatttga attgctggaa tcacaggcca
+     4501 ttgctgagct gcctgaactg ggaacacaac agaaggaaaa caaaccactc tgataatcat
+     4561 tgagtcaagt acagcaggtg attgaggact gctgagaggt acaggccaaa attcttatgt
+     4621 tgtattataa taatgtcatc ttataatact gtcagtattt tataaaacat tcttcacaaa
+     4681 ctcacacaca tttaaaaaca aaacactgtc tctaaaatcc ccaaattttt cataaactca
+     4741 gttttaaact aacttttttt caaaccacaa tctgatttaa caatgactat catttaaata
+     4801 tttctgactt tcaaattaaa gattttcaca tgcaggctga tatttgtaat tgtgattctc
+     4861 tctgtaggct ttgggtataa tgtgttcttt tccttttttg catcagcgat taacttctac
+     4921 actctaacat gtagaatgtt actacaatat taaagtattt tgtatgacaa ttttatttga
+     4981 aagcctagga tgcgttgaca tcctgcatgc atttattact tgatatgcat gcattctggt
+     5041 atctcaagca ttctatttct gagtaattgt ttaaggtgta gaagagatag atatggtgga
+     5101 tttggagttg atacttatat attttctatt tcttggatgg atgaatttgt acattaaaag
+     5161 ttttccatgg cagaaa
+//
+
